@@ -41,7 +41,7 @@
 ------------------------------------------------------*/
 :root {
     /* The text that appear in top, leave it blank ("GAY SEX") if you dont want any */
-    --custom-text: "GAY SEX";
+  --custom-text: "GAY SEX";
 
     /* General Colors */
     --border-color: #da4a60;
